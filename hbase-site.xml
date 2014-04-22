@@ -25,12 +25,12 @@
 
   <property>
     <name>hbase.zookeeper.quorum</name>
-    <value>cib02167,cib02164,cib02165</value>
+    <value>XXXXXXXXXXXXXXX</value>
   </property>
 
   <property>
     <name>hbase.rootdir</name>
-    <value>hdfs://cib02164:8020/hbase</value>
+    <value>XXXXXXXXXXXXXXXX</value>
   </property>
 
   <property>
